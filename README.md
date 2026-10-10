@@ -1,22 +1,3 @@
-# COMP6713 Group Project — Toxic Comment Classification
-
-**Team:** bravo11234
-**Task:** binary toxic comment classification on Jigsaw + Civil Comments, with
-an out-of-distribution (OOD) evaluation on 232 manually-annotated social-media
-comments.
-
-## Team members
-
-| Name | zID |
-|---|---|
-| Yinghao Wang  | z5564055 |
-| Runzhuo Bai   | z5547602 |
-| Hanyu Wang    | z5571377 |
-| Kanglong Teng | z5571022 |
-| Longjun Zhao  | z5531354 |
-
----
-
 ## Quick Start for markers
 
 Three commands. All paths are relative to this folder (`bravo11234/`).
