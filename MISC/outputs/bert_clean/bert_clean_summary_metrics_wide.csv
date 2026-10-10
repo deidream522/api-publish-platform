@@ -1,0 +1,9 @@
+split,val,test_6w,manual_200
+accuracy,0.9601,0.9598,0.7069
+f1_macro,0.8827,0.8816,0.64
+precision_macro,0.8779,0.8773,0.7147
+recall_macro,0.8876,0.8859,0.6402
+f1_toxic,0.7873,0.7853,0.4848
+precision_toxic,0.7763,0.7756,0.7273
+recall_toxic,0.7986,0.7953,0.3636
+roc_auc,0.9742,0.9782,0.6787

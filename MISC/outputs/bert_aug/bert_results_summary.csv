@@ -1,0 +1,4 @@
+Model,Dataset,Accuracy,Precision,Recall,F1-score
+BERT-augmented-weighted,Validation,0.9603,0.7722,0.8088,0.7901
+BERT-augmented-weighted,Test,0.9582,0.7547,0.8122,0.7824
+BERT-augmented-weighted,Manual held-out,0.8276,0.875,0.6364,0.7368

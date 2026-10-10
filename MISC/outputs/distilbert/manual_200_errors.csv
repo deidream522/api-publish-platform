@@ -1,0 +1,70 @@
+cleaned_text,toxic,prob_toxic,pred_default_0.5,pred_tuned,correct_tuned,error_type
+"Wow,,,you are actually pretty smart for a woman!",1,0.0093,0,0,0,false_negative_implicit_toxicity
+"everyone knows that scam belongs to the Chinese. when SG does something like this, it's actually like they're beating up the Malaysian Chinese clique who have been sucking up to and praising Singapore all this time lol.",1,0.0213,0,0,0,false_negative_sarcasm
+"Teenage pregnancy is such a weird hobby. I get once, but THREE times?",1,0.0162,0,0,0,false_negative_implicit_toxicity
+"This is really fucking weird and anti art of the crew, insulting ¡°corporate art style¡± like it¡¯s been used in the past half a decade with the rapid rise of AI art. Genuinely expected better from them",0,0.9974,1,1,0,false_positive_other
+I genuinely believe this was written in crayon.,1,0.0005,0,0,0,false_negative_short_or_implicit
+if you think Claude improves your productivity in it's current state you weren't a productive dev to begin with,1,0.0005,0,0,0,false_negative_implicit_toxicity
+It's genuinely fascinating  that cool...how someone can type such a long paragraph without accidentally stating a single fact.,1,0.0006,0,0,0,false_negative_implicit_toxicity
+"not to be that bitch but this is literally my life story and I wrote a book laying out how other people can do it. i'm not joking when I say this, if you met 25 year old me I would be unrecognizable.",0,0.9762,1,1,0,false_positive_other
+New York's Muslim mayor opposes Trump's mass deportations. He's proving to be very violent. Dark times for New York.,1,0.0978,0,0,0,false_negative_implicit_toxicity
+Ahh time to sit wth why is my cushion dancing,1,0.0055,0,0,0,false_negative_short_or_implicit
+Unbelievable & unfathomable how the Republicans are allowing you to rape & pillage the office of the Presidency of the United States of America!!!!! Fact you are manipulating the stock market 24/7 & Countries with tariffs for personal gain!!! You are starting wars for personal,1,0.4268,0,0,0,false_negative_implicit_toxicity
+I saw emotion in the president's face...his humanity SHOWED.,1,0.0057,0,0,0,false_negative_short_or_implicit
+"Despite the unprecedented criticism and skepticism, I believe President Trump will ultimately emerge victorious in this conflict. The Mullahs have reached the end of their time.",1,0.0094,0,0,0,false_negative_implicit_toxicity
+The GOAT. Make America Great Again.,1,0.0213,0,0,0,false_negative_short_or_implicit
+"I do understand that you are putting America first is great. My current experience I am having is my friend who also love the MAGA movement, but he married an Ugandan and followed all the USIC policies and was approved.",1,0.0008,0,0,0,false_negative_implicit_toxicity
+The president has been RESET sounds like. Hope he gets protection from deep state actors,1,0.0008,0,0,0,false_negative_implicit_toxicity
+Dear President Trump. I¡¯m a 74 year-old woman that¡¯s retired. I¡¯ve been watching all of this hurrah about NATO. For years I wondered why we¡¯re even part of it. I am not a high-powered professor. I¡¯m educated I have no power. All I have is my voice leave NATO.,1,0.0125,0,0,0,false_negative_implicit_toxicity
+"Before Trump ran for president, I was already a fan. I am Law of Attraction informed and long ago a LOA teacher of mine mentioned Trumps understanding of the power of tongue,",1,0.0108,0,0,0,false_negative_implicit_toxicity
+"I think the term ""MOST"" has lost is literal meaning in US politic",1,0.0004,0,0,0,false_negative_implicit_toxicity
+"I AGREE VERY MUCH, MR. PRESIDENT, PLEASE SPEED UP LIKE LIGHTNING BECAUSE THE SYSTEM IS DECLINED & FULL OF MANIPULATION AND LIES. IT MUST BE REPLACED WITH A HEALTHY SYSTEM FULL OF HONESTY ACCORDING TO THE BIBLE.",1,0.004,0,0,0,false_negative_implicit_toxicity
+Try actually telling the truth for once you child rapist,1,0.698,1,0,0,false_negative_short_or_implicit
+"Do not give the Iranians anything! Rather, make them give the U.S. everything¡ªincluding them reimbursing the U.S. for the $$$ we spent raining down missiles on them.",1,0.0127,0,0,0,false_negative_implicit_toxicity
+cowardly scaredy-cat bastard,0,0.9984,1,1,0,false_positive_other
+WORLDS MOST POWERFUL RESET£¡Buckle up 2026 is going to be insane,1,0.1068,0,0,0,false_negative_short_or_implicit
+Trump does not protect or care for his sheep.,1,0.0599,0,0,0,false_negative_short_or_implicit
+"even if you predicted what you did, and that you want peace, when will we find your human side, Mr. President?",1,0.0022,0,0,0,false_negative_implicit_toxicity
+What happened to you Mr. PRESIDENT,1,0.0037,0,0,0,false_negative_short_or_implicit
+Whenever shah come to iran we can say regim change otherwise its just another version of islamic republic.listen to the Iranian.we want regim change,1,0.0012,0,0,0,false_negative_implicit_toxicity
+"I think that if this happens, they'll let me live quietly.",1,0.0065,0,0,0,false_negative_short_or_implicit
+"Wise choice staying away. If you came here, our Biryani is so good you'd forget all about the wall and start deporting burgers from the US instead. It¡¯s too dangerous for your diet.",1,0.0301,0,0,0,false_negative_implicit_toxicity
+Diplomatic masterclass outsource the problem and avoid the location,1,0.0005,0,0,0,false_negative_short_or_implicit
+Straight to the point delegate the tough diplomacy to Vance while keeping the Art of the Deal vibes alive from afar.,1,0.0017,0,0,0,false_negative_implicit_toxicity
+"No one does. That is how it is. And we know it well why are you doing this. Why are you supporting Pakistan so much, Coz you're afraid that India will lead the world soon and you're supporting India's enemies and trying to create an alternative to India which will never happen.",1,0.0049,0,0,0,false_negative_implicit_toxicity
+His insults at Jeb Bush never get old lol those were straight classic!!,1,0.0257,0,0,0,false_negative_sarcasm
+I also love the one where a dog barks and Donald asks what that was. A guy in the audience shouted ¡°it¡¯s Hillary!¡± Still cracks me up to this day,1,0.0372,0,0,0,false_negative_implicit_toxicity
+Your never gonna be president of the united states by insulting people,1,0.0906,0,0,0,false_negative_implicit_toxicity
+Hard to think these aren¡¯t ai,1,0.0013,0,0,0,false_negative_short_or_implicit
+"Love or hate him, he's the funniest president ever",1,0.2861,0,0,0,false_negative_short_or_implicit
+"The banter between Trump and Little Marco was epic. Marco Rubio is big Marco now, doing a awesome job.",1,0.0159,0,0,0,false_negative_implicit_toxicity
+"This is a tragedy, a nightmare, he is actually sick and no one stop him",1,0.3896,0,0,0,false_negative_implicit_toxicity
+the amazing thing is you don't need AI to mock this guy. He's a live meme,1,0.1326,0,0,0,false_negative_implicit_toxicity
+"We are all in an abduction van, and sociopath just drove us off the cliff. No going back.",1,0.0039,0,0,0,false_negative_implicit_toxicity
+I used to wage military battles the same way. When I was maybe 6-7 years old playing with my toy soldiers.,1,0.0118,0,0,0,false_negative_implicit_toxicity
+"The craziest part of this comedic monologue is that Jimmy Fallon is not trying to be funny or even laughing on the inside, he is very serious as he speaks and honestly looks very disappointed, sad, and even a bit defeated on the inside. I have a feeling all of us feel the same way right about now.",1,0.0099,0,0,0,false_negative_implicit_toxicity
+"If it wasn't so TRAGIC for the whole world, it would be funny!!!!!",1,0.0012,0,0,0,false_negative_implicit_toxicity
+"Most people think this is a jokes, but actually this is the real America.",1,0.0073,0,0,0,false_negative_sarcasm
+"i love how twice spent their entire ment time in detroit talking about 67, scuba, and twerking",1,0.0034,0,0,0,false_negative_implicit_toxicity
+"Man, I'd be pissed too if the Internet went out when I owned a company with thousands of Internet satellites",1,0.7821,1,0,0,false_negative_implicit_toxicity
+The AI is getting out of hand. Look at the hands and the weird glitching on the floor. People will believe anything these days.,1,0.0127,0,0,0,false_negative_implicit_toxicity
+This IS obviously AI. Your TDS is showing.,1,0.0025,0,0,0,false_negative_short_or_implicit
+"AI is a dangerous tool, If I had not seen the orignal I would been hard pressed to tell",1,0.0026,0,0,0,false_negative_implicit_toxicity
+"A thief always says that he did not steal, a rapist always says that he did not rape, now she is saying that she did not even know Epstein, now only God knows what is the truth in this.",1,0.0417,0,0,0,false_negative_implicit_toxicity
+"Fantasizing about Epstein, again? Making some AI? Maybe someone needs to get a hold of your HD! Perv!",1,0.0145,0,0,0,false_negative_implicit_toxicity
+"At first glance, it's clearly a composite image. Only an unwise person would believe it's real.",1,0.0005,0,0,0,false_negative_implicit_toxicity
+She never said that loser. She said she met him at parties they both attended. Why must you moron lies so much?,0,0.9945,1,1,0,false_positive_other
+"first of all, she was a who(her)re",1,0.0009,0,0,0,false_negative_short_or_implicit
+Like imagine looking at ¡°motherfucker¡± and unironically going ¡°gasp¡­ ¡®(mother)fucker¡¯¡­mom¡¯s are fuckers.¡± Jesus Christ,0,0.9987,1,1,0,false_positive_other
+The dude pretty much censor his venom,0,0.9604,1,1,0,false_positive_other
+"As a man on insta, I see the exact same shit but instead of misandry, change it to misogyny.",0,0.9822,1,1,0,false_positive_other
+Sometimes I forget that he actually had parents and didn't spawn from the excretion splatter on the floor of a public toilet,1,0.8295,1,0,0,false_negative_implicit_toxicity
+"Man, they both just look like miserable people.",0,0.981,1,1,0,false_positive_other
+"i do not like any of the dark groups, blm is a good example . they are a racist group who are demanding black people take power by beating on white people . africans as a group are murdering their own people . that is what dark people do with power. no need to explain what goes on where large groups of muslims gather.",1,0.3174,0,0,0,false_negative_implicit_toxicity
+"so much anger. so much hatred. so much entitlement. all directed against the white race and specifically the white male. how ironic that this sort of distorted identity politics exists in a country and an era where all races, all genders, all religions, enjoy the greatest freedoms, rights and protections human kind has ever seen. one has to wonder where this sense of outrage is really coming from because it's not grounded in the realities of canadian society where our government does backflips in a tornado to appease anyone who doesn't have an anglo sounding name.",1,0.0901,0,0,0,false_negative_implicit_toxicity
+that damned justice system just keeps getting in the way. so much losing.,0,0.9963,1,1,0,false_positive_strong_words_no_intent
+you up voted yourself? lame.,1,0.4212,0,0,0,false_negative_implicit_toxicity
+what we need is a huge 4220 bonfire near the air intakes of the capital building perhaps they can come to some sort of compromise then.,1,0.0007,0,0,0,false_negative_implicit_toxicity
+Right ok I do want to point out¡­inhumane? Really? You know human is in there?? Does that mean only men are humans?? Why are people this batshit about looking at words?,1,0.2978,0,0,0,false_negative_implicit_toxicity
+Like imagine looking at ¡°motherfucker¡± and unironically going ¡°gasp¡­ ¡®(mother)fucker¡¯¡­mom¡¯s are fuckers.¡± Jesus Christ,0,0.9987,1,1,0,false_positive_other
+This stupid Iran war. The stupid tariffs. I would be more inclined to throw my vote away on a third party. I would never vote for Harris. But outright vote for Trump based on his actions recently? No. No I would not.,0,0.9965,1,1,0,false_positive_politically_charged

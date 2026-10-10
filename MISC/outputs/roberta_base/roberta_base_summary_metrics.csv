@@ -1,0 +1,9 @@
+,test_6w,manual_200
+accuracy,0.9567,0.6983
+f1_macro,0.8783,0.6476
+precision_macro,0.8582,0.6855
+recall_macro,0.9017,0.6443
+f1_toxic,0.7807,0.5139
+precision_toxic,0.7336,0.6607
+recall_toxic,0.8342,0.4205
+roc_auc,0.9759,0.6881

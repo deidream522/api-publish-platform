@@ -1,0 +1,27 @@
+# COMP6713 bravo11234 - combined requirements across all four model tracks.
+# Pinned to conservative floors that reproduce every notebook + CLI + demo.
+
+# Core data stack (all models)
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.2
+
+# Deep-learning stack (DistilBERT, BERT, RoBERTa)
+torch>=2.1
+transformers>=4.44,<5
+datasets>=2.19
+accelerate>=0.30
+
+# NLP tooling (Naive Bayes deep cleaning)
+nltk>=3.8
+
+# Plotting
+matplotlib>=3.7
+seaborn>=0.12
+
+# CLI / demo
+gradio>=4.0
+
+# Jupyter (for running the .ipynb files locally)
+jupyter>=1.0

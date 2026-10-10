@@ -1,0 +1,4 @@
+model,split,n,accuracy,f1_macro,precision_macro,recall_macro,f1_toxic,precision_toxic,recall_toxic,roc_auc
+BERT-clean,val,6391,0.9601,0.8827,0.8779,0.8876,0.7873,0.7763,0.7986,0.9742
+BERT-clean,test_6w,6391,0.9598,0.8816,0.8773,0.8859,0.7853,0.7756,0.7953,0.9782
+BERT-clean,manual_200,232,0.7069,0.64,0.7147,0.6402,0.4848,0.7273,0.3636,0.6787
